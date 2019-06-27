@@ -1,0 +1,9 @@
+.button {
+    outline:none;
+    border:none;
+    cursor: pointer;
+    &-regular {
+        padding: 0.35rem .75rem;
+    }
+
+}
